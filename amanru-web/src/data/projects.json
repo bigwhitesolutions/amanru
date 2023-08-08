@@ -1,0 +1,27 @@
+[
+  {
+    "project": "Project Sample #1",
+    "description": "A short description about the project.",
+    "link": "https://github.com/"
+  },
+  {
+    "project": "Project Sample #2",
+    "description": "A short description about the project.",
+    "link": "https://github.com/"
+  },
+  {
+    "project": "Project Sample #3",
+    "description": "A short description about the project.",
+    "link": "https://github.com/"
+  },
+  {
+    "project": "Project Sample #4",
+    "description": "A short description about the project.",
+    "link": "https://github.com/"
+  },
+  {
+    "project": "Project Sample #5",
+    "description": "A short description about the project.",
+    "link": "https://github.com/"
+  }
+]
